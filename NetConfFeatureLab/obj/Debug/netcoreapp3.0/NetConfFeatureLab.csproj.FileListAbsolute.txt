@@ -1,0 +1,17 @@
+E:\NetConfFeatureLab\NetConfFeatureLab\bin\Debug\netcoreapp3.0\NetConfFeatureLab.exe
+E:\NetConfFeatureLab\NetConfFeatureLab\bin\Debug\netcoreapp3.0\NetConfFeatureLab.deps.json
+E:\NetConfFeatureLab\NetConfFeatureLab\bin\Debug\netcoreapp3.0\NetConfFeatureLab.runtimeconfig.json
+E:\NetConfFeatureLab\NetConfFeatureLab\bin\Debug\netcoreapp3.0\NetConfFeatureLab.runtimeconfig.dev.json
+E:\NetConfFeatureLab\NetConfFeatureLab\bin\Debug\netcoreapp3.0\NetConfFeatureLab.dll
+E:\NetConfFeatureLab\NetConfFeatureLab\bin\Debug\netcoreapp3.0\NetConfFeatureLab.pdb
+E:\NetConfFeatureLab\NetConfFeatureLab\bin\Debug\netcoreapp3.0\NetConfFeatureLab.xml
+E:\NetConfFeatureLab\NetConfFeatureLab\bin\Debug\netcoreapp3.0\System.CommandLine.DragonFruit.dll
+E:\NetConfFeatureLab\NetConfFeatureLab\bin\Debug\netcoreapp3.0\System.CommandLine.dll
+E:\NetConfFeatureLab\NetConfFeatureLab\bin\Debug\netcoreapp3.0\System.CommandLine.Rendering.dll
+E:\NetConfFeatureLab\NetConfFeatureLab\obj\Debug\netcoreapp3.0\NetConfFeatureLab.csprojAssemblyReference.cache
+E:\NetConfFeatureLab\NetConfFeatureLab\obj\Debug\netcoreapp3.0\NetConfFeatureLab.AssemblyInfoInputs.cache
+E:\NetConfFeatureLab\NetConfFeatureLab\obj\Debug\netcoreapp3.0\NetConfFeatureLab.AssemblyInfo.cs
+E:\NetConfFeatureLab\NetConfFeatureLab\obj\Debug\netcoreapp3.0\NetConfFeatureLab.csproj.CopyComplete
+E:\NetConfFeatureLab\NetConfFeatureLab\obj\Debug\netcoreapp3.0\NetConfFeatureLab.dll
+E:\NetConfFeatureLab\NetConfFeatureLab\obj\Debug\netcoreapp3.0\NetConfFeatureLab.xml
+E:\NetConfFeatureLab\NetConfFeatureLab\obj\Debug\netcoreapp3.0\NetConfFeatureLab.pdb
